@@ -36,6 +36,8 @@ For more in-depth information about my project please refer to the topics below.
  2. Create web app and use tensorflow.js library to call the model to predict image. 
  3. Deploy the web app to AWS Ec2 instance and generated public url to use from anywhere from browser. 
  
+ App is running at http://ec2-3-85-188-58.compute-1.amazonaws.com/
+ 
  ## upload image
  ![](reports/Upload_image.png)
  
